@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Devanshu - aka dddiehard21 👋
 
-<!--
-**dddiehard21/dddiehard21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, App Developer, Coder and Teacher.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on something big...
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Publishing atleast 3 more apps to the app store.
+- ⚡ Fun fact: I love to play the drums in my free time.
+- 💬 Ask me about anything related to iOS App development anytime!
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+</details>
+
+[twitter]: https://twitter.com/devdchaudhary
+[linkedin]: https://www.linkedin.com/in/devanshu-chaudhary-236263177/
+
+
