@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Publishing atleast 3 more apps to the app store.
 - ⚡ Fun fact: I love to play the drums in my free time.
-- ✉️ - Ask my about anything related to iOS Development anytim!
+- ✉️ - Ask my about anything related to iOS Development anytime!
 
 
 ### Connect with me:
