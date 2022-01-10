@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on something big...
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Publishing atleast 3 more apps to the app store.
+- 🥅 2022 Goals: There is an app I working on that I consider very personal and close to me, hopefully I shall publish it this year...
 - ⚡ Fun fact: I love to play the drums in my free time.
 - ✉️ - Ask my about anything related to iOS Development anytime!
 
