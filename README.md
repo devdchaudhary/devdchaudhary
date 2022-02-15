@@ -1,12 +1,12 @@
 ### Hi there, I'm Devanshu - aka dddiehard21 👋
 
-## I'm a Student, iOS App Developer, Coder and Teacher.
+## I'm a Student, iOS App Developer, Coder and sometimes a Teacher.
 
 - 🔭 I’m currently working on something big...
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: There is an app I'm working which I consider very personal to me, hopefully I shall finish it this year...
 - ⚡ Fun fact: I love to play the drums in my free time.
-- ✉️ - Ask my about anything related to iOS Development anytime!
+- ✉️ - Ask my about anything related to Swift, Xcode and iOS Development anytime!
 
 
 ### Connect with me:
