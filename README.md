@@ -1,4 +1,4 @@
-### Hi there, I'm Devanshu - aka dddiehard21 👋
+### Hi there, I'm Devanshu - aka devdchaudhary 👋
 
 ## I'm a Student, iOS App Developer, Coder and sometimes a Teacher.
 
