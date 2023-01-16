@@ -12,7 +12,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github-readme-stats.vercel.app/api?username=dvmjoshi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" height="22px" src="https://github-readme-stats.vercel.app/api?username=dvmjoshi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
