@@ -6,6 +6,8 @@ I have over 1 years of working on production apps and regulary work on and relea
 
 My lastest app is called [Companion](https://apps.apple.com/us/app/companion-ai-art-chat/id6446225542) and it is an AI Art & Chat generator. 
 
+[![Devanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdchaudhary)](https://github.com/devdchaudhary/github-readme-stats)
+
 - 🔭 I’m currently working on something big...
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: There is an app I'm working which I consider very personal to me, hopefully I shall finish it this year...
