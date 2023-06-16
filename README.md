@@ -4,7 +4,7 @@
 
 I have over 1 years of working on production apps and regulary work on and release my own apps to the app store aswell.
 
-My lastest app is called [Companion](https://mcrich23.com/easy-bridge-tracker](https://apps.apple.com/us/app/companion-ai-art-chat/id6446225542) and it is an AI Art & Chat generator. 
+My lastest app is called [Companion](https://apps.apple.com/us/app/companion-ai-art-chat/id6446225542) and it is an AI Art & Chat generator. 
 
 - 🔭 I’m currently working on something big...
 - 🌱 I’m currently learning everything 🤣
