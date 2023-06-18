@@ -9,7 +9,6 @@ My lastest app is called [Companion](https://apps.apple.com/us/app/companion-ai-
 [![Devanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdchaudhary)](https://github.com/devdchaudhary/github-readme-stats)
 
 - 🔭 I’m currently working on something big...
-- 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: There is an app I'm working which I consider very personal to me, hopefully I shall finish it this year...
 - ⚡ Fun fact: I love to play the drums in my free time.
 - ✉️ - Ask my about anything related to Swift, Xcode and iOS Development anytime!
